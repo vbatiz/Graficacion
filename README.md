@@ -1,6 +1,6 @@
 # Graficación
 
-En este repositorio se encuentran los proyectos plantilla que se utilizan en la materia de Graficación
+En este repositorio se encuentran los proyectos plantilla que se utilizan en la materia de Graficación. 
 
 ## Archivos
 
@@ -14,4 +14,5 @@ En este repositorio se encuentran los proyectos plantilla que se utilizan en la 
 ## Sitios de interés
 
 [Página Oficial de P5.js](https://p5js.org/)
+
 [Sitio W3Schools](http://w3schools.com/)
